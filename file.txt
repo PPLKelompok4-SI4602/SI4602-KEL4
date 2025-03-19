@@ -1,5 +1,13 @@
-<<<<<<< HEAD
+
 ini saya ubah di main
-=======
 PPL2025-6
->>>>>>> Aida_Branch
+
+
+
+tes 123
+
+
+commit issue key
+
+ini saya ubah di main
+
